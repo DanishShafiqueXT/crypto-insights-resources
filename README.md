@@ -12,6 +12,8 @@ Welcome to the official open repository of free research, analysis, and educatio
 🔗 **Read our full blogs on XT.com:**  
 👉 [Bitcoin Trend Analysis & Price Prediction](https://www.xt.com/en/blog/post/bitcoin-price-prediction-trend-analysis-btc-usdt)  
 👉 [All blog posts](https://www.xt.com/en/blog)
+👉 [How Chinese Investors Can Profit from BTC, ETH & Altcoins: Trading, Staking, Mining, and More]. (https://www.xt.com/en/blog/post/chinese-btc-eth-investment-staking-mining-trading). 
+
 
 ---
 
